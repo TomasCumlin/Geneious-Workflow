@@ -1,7 +1,9 @@
 # A Geneious Workflow for rapid detection of SARS-CoV-2
 
-##Set-up in Linux
-###nextclade.py
+## Set-up in Linux
+
+### nextclade.py
+
 Open the file **nextclade.py** with the editor of your choice. There are 3 lines which must be modified by the user and 1 line that is optional.
 
 **Line 1:**
